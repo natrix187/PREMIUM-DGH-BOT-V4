@@ -2,7 +2,7 @@ module.exports = {
   bot: {
     token: "", //Bot Token from https://discord.com/developers/applications
     prefix: "!", //Bot Prefix
-    owners: ["740947753135243354", "767726828311543820"], //Bot Onwer ID
+    owners: ["1341478551764860958"], //Bot Onwer ID
     maintenance: false,
     mongourl:
       "", //https://mongodb.com/cloud/atlas/register
